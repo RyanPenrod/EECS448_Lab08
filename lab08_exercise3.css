@@ -1,0 +1,40 @@
+p{
+  background-color: orange;
+  color: white;
+  font-family: arial;
+  font-size: 25pt;
+}
+
+p:hover{
+  background-color: orange;
+  color: black;
+  font-family: arial;
+  font-size: 25pt;
+}
+
+p.websites{
+  background-color: orange;
+  color: black;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 30pt;
+}
+
+a:hover{
+  filter: invert(1);
+}
+
+html{
+  background-color: yellow;
+}
+
+body{
+  font-family: verdana;
+  font-size: 40pt;
+  background-image: url(exercise3.gif);
+  background-size: 100%;
+}
+
+#pfp:hover{
+  filter: invert(1);
+}
